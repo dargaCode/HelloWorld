@@ -1,6 +1,6 @@
 # helloWorld
-Learning how to use github, first checkin
+Learning how to use github, first checkin.
 
-Making a final change into the helloWorld pull request before merging
+Making a final change into the helloWorld pull request before merging...
 
-
+Manually resolving conflict via command line!
